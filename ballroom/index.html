@@ -1,0 +1,21 @@
+---
+layout: page
+title: Ballroom
+permalink: /ballroom/
+---
+
+<h2>About Ballroom dancing</h2>
+<p>Following description of dances popular in ATX:
+
+lorem lorem</p>
+
+
+<h2>List of locations in austin to go ballroom dancing</h2>
+
+{% for post in site.categories.ballroom %}
+    <li class="item ballroom column small-3">
+      <a href="{{ post.url }}">
+	      <h3 class="title">{{ post.title }}</h3>
+     </a>
+    </li>
+{% endfor %}

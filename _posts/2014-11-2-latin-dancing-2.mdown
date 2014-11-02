@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Location 1"
+title:  "Location 2"
 date:   2014-11-2
 categories: latin
 ---
 
-location one to go latin dancing
+location 2 for latin dancing

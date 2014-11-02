@@ -1,0 +1,24 @@
+---
+layout: page
+title: Latin
+permalink: /latin/
+---
+
+<h2>About Latin dancing</h2>
+<p>Following description of latin dances popular in ATX:
+
+salsa
+cha-cha
+bachata
+kizomba</p>
+
+
+<h2>List of locations in austin to go latin dancing</h2>
+
+{% for post in site.categories.latin %}
+    <li class="item latin column small-3">
+      <a href="{{ post.url }}">
+	      <h3 class="title">{{ post.title }}</h3>
+     </a>
+    </li>
+{% endfor %}
