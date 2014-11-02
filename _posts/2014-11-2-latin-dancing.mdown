@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Latin Dancing"
+date:   2014-11-2
+categories: latin
+---
+
+Following description of latin dances popular in ATX:
+
+salsa
+cha-cha
+bachata
+kizomba

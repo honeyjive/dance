@@ -1,0 +1,12 @@
+layout: post
+title:  "Western Dancing"
+date:   2014-11-2
+categories: western
+---
+
+Following description of western dances popular in ATX:
+
+two-step/one-step
+triple-two
+polka
+wcs(?)
