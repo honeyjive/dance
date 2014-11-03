@@ -5,7 +5,7 @@ date:   2014-11-5
 categories: swing
 ---
 
-Following description of swing dances popular in ATX:
+<!-- TODO: Create photo link with hovering text -->
 
 east coast swing
 lindy hop
