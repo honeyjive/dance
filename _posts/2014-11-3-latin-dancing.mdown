@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Latin Dancing"
+date:   2014-11-3
+categories: latin
+---
+
+latin dancing
+salsa
+cha-cha
+bachata
+kizomba

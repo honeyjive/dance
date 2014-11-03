@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Swing Dancing"
-date:   2014-11-2
+date:   2014-11-5
 categories: swing
 ---
 
