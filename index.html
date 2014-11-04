@@ -19,8 +19,10 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+        <img src="{{ post.cover-photo }}" class="cover-photo" />
       </li>
     {% endfor %}
+
 
 <!-- Pages that contain fuller description of dance types and locations -->
     {% for page in site.pages %}
