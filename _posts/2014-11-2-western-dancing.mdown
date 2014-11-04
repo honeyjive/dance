@@ -1,7 +1,9 @@
+---
 layout: post
 title:  "Western Dancing"
 date:   2014-11-4
 categories: western
+cover-photo: images/testphoto2.png
 ---
 
 Following description of western dances popular in ATX:

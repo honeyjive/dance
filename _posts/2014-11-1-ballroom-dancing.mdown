@@ -1,7 +1,9 @@
+---
 layout: post
 title:  "Ballroom Dancing"
 date:   2014-11-1
 categories: ballroom
+cover-photo: images/testphoto2.png
 ---
 
 Following description of ballroom dances popular in ATX:
