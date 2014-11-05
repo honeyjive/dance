@@ -1,18 +1,10 @@
-/*body {
+.dance-detail {
 	border: 1px solid blue;
-}*/
-/*
+}
+
 div {
-	border: 1px solid red;
+	border: 1px dashed red;
 }
-
-header {
-	border: 1px solid green;
-}
-
-footer {
-	border: 1px solid orange;
-}*/
 
 a.page-link.About {
 	display: none;
