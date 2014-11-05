@@ -6,9 +6,5 @@ categories: western
 cover-photo: images/testphoto2.png
 ---
 
-Following description of western dances popular in ATX:
 
-two-step/one-step
-triple-two
-polka
-wcs(?)
+<!-- TODO: CONTAINS THE LIST OF LOCATIONS HERE THAT CAN BE ACCESSED FROM HOMEPAGE -->

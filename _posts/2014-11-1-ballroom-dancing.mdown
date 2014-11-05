@@ -6,11 +6,4 @@ categories: ballroom
 cover-photo: images/testphoto2.png
 ---
 
-Following description of ballroom dances popular in ATX:
-
-waltz
-tango
-foxtrot
-quickstep
-rumba
-cha-cha
+<!-- TODO: CONTAINS THE LIST OF LOCATIONS HERE THAT CAN BE ACCESSED FROM HOMEPAGE -->

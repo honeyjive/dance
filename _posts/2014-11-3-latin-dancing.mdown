@@ -6,8 +6,5 @@ categories: latin
 cover-photo: images/testphoto.gif
 ---
 
-latin dancing
-salsa
-cha-cha
-bachata
-kizomba
+
+<!-- TODO: CONTAINS THE LIST OF LOCATIONS HERE THAT CAN BE ACCESSED FROM HOMEPAGE -->

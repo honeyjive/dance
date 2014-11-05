@@ -11,7 +11,4 @@ cover-photo: images/testphoto.gif
 <!-- TEST IMG TODO: make it so there is a cover photo on the post-->
 
 
-east coast swing
-lindy hop
-west coast swing
-blues
+<!-- TODO: CONTAINS THE LIST OF LOCATIONS HERE THAT CAN BE ACCESSED FROM HOMEPAGE -->
