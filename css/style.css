@@ -1,3 +1,8 @@
+/*WRAPPER FLOAT TEST*/
+.wrapper {
+	float: left;
+}
+
 .dance-detail {
 	border: 1px solid blue;
 }
