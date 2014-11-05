@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Latin Dancing"
+title:  "Latin Dancing Locations"
 date:   2014-11-3
 categories: latin
 cover-photo: images/testphoto.gif

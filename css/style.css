@@ -6,6 +6,10 @@ div {
 	border: 1px dashed red;
 }
 
+.home {
+	font-family: arial;
+}
+
 a.page-link.About {
 	display: none;
 }

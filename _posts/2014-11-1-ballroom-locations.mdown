@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ballroom Dancing"
+title:  "Ballroom Dancing Locations"
 date:   2014-11-1
 categories: ballroom
 cover-photo: images/testphoto2.png

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Western Dancing"
+title:  "Western Dancing Locations"
 date:   2014-11-4
 categories: western
 cover-photo: images/testphoto2.png

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Swing Dancing"
+title:  "Swing Dancing Locations"
 date:   2014-11-5
 categories: swing
 cover-photo: images/testphoto.gif
