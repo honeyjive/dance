@@ -8,3 +8,7 @@ cover-photo: images/testphoto3.jpeg
 
 
 <!-- TODO: CONTAINS THE LIST OF LOCATIONS HERE THAT CAN BE ACCESSED FROM HOMEPAGE -->
+
+Dallas Nite Club
+Midnight Rodeo
+Broken Spoke

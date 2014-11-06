@@ -42,3 +42,15 @@ a.page-link.About {
 .description {
 	font-family: 'Raleway', sans-serif;
 }
+
+/*************************/
+/******  post ***********/
+/*************************/
+
+h1.post-title {
+	font-family: 'Montserrat', sans-serif;
+}
+
+article.post-content {
+	font-family: 'Raleway', sans-serif;
+}

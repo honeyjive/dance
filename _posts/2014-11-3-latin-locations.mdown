@@ -8,3 +8,6 @@ cover-photo: images/testphoto4.gif
 
   text text
 <!-- TODO: CONTAINS THE LIST OF LOCATIONS HERE THAT CAN BE ACCESSED FROM HOMEPAGE -->
+
+Dallas Nite Club
+Gloria's

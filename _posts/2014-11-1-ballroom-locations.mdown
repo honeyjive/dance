@@ -7,3 +7,6 @@ cover-photo: images/testphoto2.png
 ---
 
 <!-- TODO: CONTAINS THE LIST OF LOCATIONS HERE THAT CAN BE ACCESSED FROM HOMEPAGE -->
+
+Uptown Dance Studio
+UT
