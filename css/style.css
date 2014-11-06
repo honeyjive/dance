@@ -1,15 +1,28 @@
-.dance-detail {
-	border: 1px solid blue;
-}
+/*************************/
+/******  home  ***********/
+/*************************/
 
 div {
 	border: 1px dashed red;
 }
 
 .home {
-	font-family: arial;
+	font-family: 'Montserrat', sans-serif;
 }
 
 a.page-link.About {
 	display: none;
+}
+
+/*************************/
+/******  page ***********/
+/*************************/
+
+.dance-detail {
+	border: 1px solid blue;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.description {
+	font-family: 'Raleway', sans-serif;
 }
