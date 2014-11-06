@@ -21,7 +21,8 @@ a.page-link.About {
 /******  page ***********/
 /*************************/
 
-.dance-detail {
+.dance-detail,
+.post-title {
 	border: 1px solid blue;
 	font-family: 'Montserrat', sans-serif;
 }
