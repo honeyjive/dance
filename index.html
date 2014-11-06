@@ -1,11 +1,6 @@
 ---
 layout: default
 ---
-<head>
-  <link rel="stylesheet" type="text/css" href="css/normalize.css">
-  <link rel="stylesheet" type="text/css" href="css/foundation.min.css">
-  <link rel="stylesheet" type="text/css" href="css/style.css">
-</head>
 
 <div class="home">
 
@@ -14,7 +9,6 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
@@ -25,12 +19,6 @@ layout: default
     {% endfor %}
 
 
-<!-- Pages that contain fuller description of dance types and locations -->
-<!--     {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link {{ page.title }}" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %} -->
   </ul>
 
 <!--   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
