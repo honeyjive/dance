@@ -11,3 +11,4 @@ cover-photo: images/testphoto4.gif
 
 Dallas Nite Club
 Gloria's
+Esquina Tango
