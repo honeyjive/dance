@@ -4,14 +4,15 @@ title: Western
 permalink: /western/
 ---
 
-Western dance
-
 <h2 class="dance-detail">What is Western Dancing?</h2>
 
+
+<h2 class="dance-detail">List of locations in austin to go western dancing</h2>
+
 {% for post in site.categories.western %}
-    <li class="item marfa column small-3" data-category="marfa">
-      <a href="/ranchroadtrip.com{{ post.url }}"><img class="portfolio_thumb_holder" src="{{ post.cover_photo_url }}">
-      <h3 class="title">{{ post.title }}</h3>
-      <h4>{{ post.tag }}</h4></a>
+    <li class="item western column small-3">
+      <a href="{{ post.url }}">
+	      <h3 class="title">{{ post.title }}</h3>
+     </a>
     </li>
 {% endfor %}

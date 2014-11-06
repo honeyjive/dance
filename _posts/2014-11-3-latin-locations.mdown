@@ -3,8 +3,8 @@ layout: post
 title:  "Latin Dancing Locations"
 date:   2014-11-3
 categories: latin
-cover-photo: images/testphoto.gif
+cover-photo: images/testphoto4.gif
 ---
 
-
+  text text
 <!-- TODO: CONTAINS THE LIST OF LOCATIONS HERE THAT CAN BE ACCESSED FROM HOMEPAGE -->
