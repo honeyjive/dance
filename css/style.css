@@ -13,6 +13,10 @@ div {
 	font-family: 'Montserrat', sans-serif;
 }
 
+div.wrapper {
+	max-width: 1064px;
+}
+
 a.page-link.About {
 	display: none;
 }
