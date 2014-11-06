@@ -6,7 +6,10 @@ div {
 	border: 1px dashed red;
 }
 
-.home {
+.home, 
+.site-title, 
+.site-nav,
+.footer-heading {
 	font-family: 'Montserrat', sans-serif;
 }
 
