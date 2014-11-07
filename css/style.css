@@ -28,6 +28,15 @@ a.page-link.About {
 	padding: 0;
 }
 
+.photo-wrapper {
+	width: 900px;
+	height: 380px;
+	margin: 0 auto;
+}
+
+.cover-photo {
+	width: 100%;
+}
 
 /*************************/
 /******  page ***********/
