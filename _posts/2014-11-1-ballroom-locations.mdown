@@ -8,6 +8,6 @@ cover-photo: images/testphoto2.png
 
 <!-- TODO: CONTAINS THE LIST OF LOCATIONS HERE THAT CAN BE ACCESSED FROM HOMEPAGE -->
 
-Uptown Dance Studio
-UT
-Esquina Tango
+Uptown Dance Studio - Monthly Events, Has Cover Fee, 8868 Research Blvd #706, Austin, TX 78758
+Esquina Tango - Thursday (Argentine Tango), Has Cover Fee, 209 Pedernales St. Austin, TX 78702
+Go Dance Studio - Monthly Events, Has Cover Fee, 2525 W Anderson Ln, Austin, TX 78757

@@ -9,8 +9,11 @@ cover-photo: images/testphoto4.gif
   text text
 <!-- TODO: CONTAINS THE LIST OF LOCATIONS HERE THAT CAN BE ACCESSED FROM HOMEPAGE -->
 
-Dallas Nite Club
-<!-- 	list information, but also make it so that when clicked the map location shows up like in fancybox -->
 
-Gloria's
-Esquina Tango
+<!-- 	list information, but also make it so that when clicked the map location shows up like in fancybox -->
+Dallas Nite Club - Thursday/Sunday, Has Cover Fee, 7113 Burnet Rd, Austin, TX 78757
+Gloria's (The Domain) - Fridays/Saturdays, Has Cover Fee, 3309 Esperanza Crossing Ste 100, Austin TX 78758, Some Dress Code Observed
+Esquina Tango - Monthly Events, Has Cover Fee, 209 Pedernales St. Austin, TX 78702
+Pedro's Place - Wednesdays, Has Cover Fee, 1601 Guadalupe St, Austin, Texas 78701
+Tiempo Dance Studio - Bi-Monthly, Has Cover Fee, 2311 S Congress Ave
+Austin, Tx 78704 

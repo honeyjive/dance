@@ -9,6 +9,7 @@ cover-photo: images/testphoto3.jpeg
 
 <!-- TODO: CONTAINS THE LIST OF LOCATIONS HERE THAT CAN BE ACCESSED FROM HOMEPAGE -->
 
-Dallas Nite Club
-Midnight Rodeo
-Broken Spoke
+Dallas Nite Club - Wednesday/Friday/Saturday, Has Cover Fee, 7113 Burnet Rd, Austin, TX 78757
+Midnight Rodeo - Thursday/Friday/Saturday, Has Cover Fee, 2201 E Ben White Blvd, Austin, TX 78741, Some Dress Code Observed
+Broken Spoke - Wednesday/Thursday/Friday/Saturday, Has Cover Fee, 3201 South Lamar, Austin Texas 78704
+
