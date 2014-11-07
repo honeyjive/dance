@@ -10,5 +10,7 @@ cover-photo: images/testphoto4.gif
 <!-- TODO: CONTAINS THE LIST OF LOCATIONS HERE THAT CAN BE ACCESSED FROM HOMEPAGE -->
 
 Dallas Nite Club
+<!-- 	list information, but also make it so that when clicked the map location shows up like in fancybox -->
+
 Gloria's
 Esquina Tango
