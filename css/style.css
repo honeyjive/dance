@@ -27,12 +27,20 @@ a.page-link.About {
 	margin: 0;
 	padding: 0;
 }
-
+/* DOES NOT WORK!!!!
 .photo-wrapper {
 	width: 900px;
 	height: 380px;
 	margin: 0 auto;
 }
+
+.home:after {
+	display: block;
+	visibility: hidden;
+	height: 0;
+	clear: both;
+	content: " ";
+}*/
 
 .cover-photo {
 	width: 100%;
