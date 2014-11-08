@@ -3,7 +3,7 @@ layout: post
 title:  "Latin Dancing Locations"
 date:   2014-11-3
 categories: latin
-cover-photo: images/testphoto4.gif
+cover-photo: images/salsa-cover.jpg
 ---
 
   text text

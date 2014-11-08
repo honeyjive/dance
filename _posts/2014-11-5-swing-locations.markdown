@@ -3,7 +3,7 @@ layout: post
 title:  "Swing Dancing Locations"
 date:   2014-11-5
 categories: swing
-cover-photo: images/testphoto.gif
+cover-photo: images/swing-cover.jpg
 ---
 
 <!-- TODO: Create photo link with hovering text -->
