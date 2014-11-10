@@ -26,11 +26,16 @@ div.wrapper {
 
 .site-title {
 	text-align: center;
-	font-size: 50px; /*DOES NOT WORK FOR SOME REASON*/
-	margin: 0 auto;
+	font-size: 50px;
+	float: none;
 }
 
 .navigation-wrap {
+	position: absolute;
+	bottom: 0;
+}
+
+.trigger {
 	margin: 0 auto;
 }
 
