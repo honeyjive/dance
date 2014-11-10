@@ -5,6 +5,14 @@ permalink: /ballroom/
 ---
 
 <h3 class="dance-detail">About Ballroom dancing</h3>
+
+	<div id="slides">
+		<img src="../images/ballroom.jpg">
+		<img src="../images/ballroom1.jpg">
+		<img src="../images/ballroom2.jpg">
+		<img src="../images/ballroom4.jpg">
+	</div>
+
 	<blockquote class="description">
 		<p><a href="https://en.wikipedia.org/wiki/Ballroom_dance">Ballroom dance</a> is a set of partner dances, which are enjoyed both socially and competitively around the world, and growing all the more popular in North America.</p>
 	</blockquote>
@@ -40,3 +48,29 @@ permalink: /ballroom/
      </a>
     </li>
 {% endfor %}
+
+    <!-- jQuery -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+
+
+    <!-- Slideshow -->
+    <!--DONE TODO link to the slick.min.js file -->
+    <script src="../js/jquery.slides.min.js"></script>
+    <script type="text/javascript">    
+
+            $('#slides').slidesjs({
+                play: {
+                	effect: "slide",
+                	interval: 7000,
+                	auto: true,
+                	swap: false,
+                	restartDelay: 2500,
+                }
+        	});
+
+        	$('#slides').slidesjs({
+                pagination: {
+                	active: false,
+                }
+        	});
+    </script>
