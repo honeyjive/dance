@@ -101,3 +101,11 @@ h1.post-title {
 .western {
 	list-style: none;
 }
+
+li.swing,
+li.western,
+li.ballroom,
+li.latin {
+	padding-left: 0;
+	width: 500px;
+}

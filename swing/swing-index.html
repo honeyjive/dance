@@ -39,18 +39,13 @@ permalink: /swing/
 			Fusion is a broad term when describing mixing different dance styles or dancing a certain style to music not typically associated with the dance. Blues fusion is quite popular as it mixes west coast swing and blues to be danced to songs from slow bluesy tunes to salsa music to Top 40.
 		</p>
 
-	<!-- Location -->
-
-<h3 class="dance-detail">List of locations in austin to go swing dancing</h3>
+	<!-- links to swing location post -->
 
 
-<!-- links to swing location post -->
-
-<br>
 {% for post in site.categories.swing %}
     <li class="item swing column small-3">
       <a href="{{ post.url }}">
-	      <h3 class="title">{{ post.title }}</h3>
+	      <h3 class="title dance-detail">List of Popular Swing Venues</h3>
      </a>
     </li>
 {% endfor %}
