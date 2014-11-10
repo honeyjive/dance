@@ -1,6 +1,9 @@
 /*************************/
 /******  homepage  ***********/
 /*************************/
+body {
+	background-color: #290535;
+}
 
 div {
 	border: 1px dashed red;
@@ -11,10 +14,15 @@ div {
 .site-nav,
 .footer-heading {
 	font-family: 'Montserrat', sans-serif;
+	color: white;
 }
 
 div.wrapper {
 	max-width: 1064px;
+}
+
+.trigger {
+	color: white;
 }
 
 a.page-link.About {
@@ -41,11 +49,13 @@ a.page-link.About {
 .post-title {
 	border: 1px solid blue;
 	font-family: 'Montserrat', sans-serif;
+	color: white;
 }
 
 .description {
 	font-family: 'Raleway', sans-serif;
 	list-style: none;
+	color: white;
 }
 
 /*************************/
