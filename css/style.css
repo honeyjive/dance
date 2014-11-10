@@ -50,6 +50,10 @@ a.page-link.About {
 	padding: 0;
 }
 
+.photo-wrapper {
+	height: 550px;
+	width: 500px;
+}
 
 /*************************/
 /******  page ***********/
