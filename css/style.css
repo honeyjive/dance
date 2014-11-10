@@ -18,6 +18,7 @@ div {
 
 div.wrapper {
 	max-width: 1064px;
+	width: 100%;
 }
 
 .site-header {
@@ -32,6 +33,7 @@ div.wrapper {
 
 .navigation {
 	position: relative;
+	margin: 0 auto;
 }
 
 .trigger {
