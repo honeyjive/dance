@@ -3,7 +3,7 @@ layout: post
 title:  "Ballroom Dancing Locations"
 date:   2014-11-1
 categories: ballroom
-cover-photo: images/ballroom1-cover.jpg
+cover-photo: images/ballroom-1cover.jpg
 ---
 
 <!-- TODO: CONTAINS THE LIST OF LOCATIONS HERE THAT CAN BE ACCESSED FROM HOMEPAGE -->
