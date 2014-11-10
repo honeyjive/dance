@@ -54,6 +54,11 @@ a.page-link.About {
 	width: 500px;
 }
 
+.cover-photo {
+	height: 100%;
+	width: 100%;
+}
+
 /*************************/
 /******  page ***********/
 /*************************/
@@ -79,4 +84,11 @@ h1.post-title {
 
 .post {
 	font-family: 'Raleway', sans-serif;
+}
+
+.swing,
+.ballroom,
+.latin,
+.western {
+	list-style: none;
 }
