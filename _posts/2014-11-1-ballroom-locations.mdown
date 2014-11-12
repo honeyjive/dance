@@ -6,8 +6,17 @@ categories: ballroom
 cover-photo: images/ballroom-1cover.jpg
 ---
 
-<!-- TODO: CONTAINS THE LIST OF LOCATIONS HERE THAT CAN BE ACCESSED FROM HOMEPAGE -->
 
-Uptown Dance Studio - Monthly Events, Has Cover Fee, 8868 Research Blvd #706, Austin, TX 78758
+<!-- TODO: CONTAINS THE LIST OF LOCATIONS HERE THAT CAN BE ACCESSED FROM HOMEPAGE -->
+<ul class="list">
+		<li>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3446.3388187382143!2d-97.71575999999999!3d30.25592599999999!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644b5cb403b0e83%3A0xd82cfea0e446e767!2s209+Pedernales+St%2C+Austin%2C+TX+78702!5e0!3m2!1sen!2sus!4v1415642094969" width="400" height="300" frameborder="0" style="border:0"></iframe>
+		</li>
 Esquina Tango - Thursday (Argentine Tango), Has Cover Fee, 209 Pedernales St. Austin, TX 78702
+
+
+</ul>
+
 Go Dance Studio - Monthly Events, Has Cover Fee, 2525 W Anderson Ln, Austin, TX 78757
+Uptown Dance Studio - Monthly Events, Has Cover Fee, 8868 Research Blvd #706, Austin, TX 78758
+
